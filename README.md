@@ -1,6 +1,6 @@
 # Hi there, I'm Alwaleed 👋
 
-> Systems & Software Engineer | Linux & Cloud Enthusiast
+> Systems & Software Engineer | Linux
 > Based in Riyadh, Saudi Arabia 🇸🇦
 
 I enjoy building practical software, exploring low-level systems under the hood, and solving problems through clean code.
@@ -13,8 +13,7 @@ I enjoy building practical software, exploring low-level systems under the hood,
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+!
 
 **Frameworks & Environment:**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,17 +26,17 @@ I enjoy building practical software, exploring low-level systems under the hood,
 
 ### 🎓 Background & Education
 
-- 🎓 **B.Sc. in Information Technology** — Al Baha University
+- 🎓 **Information Technology** — Al Baha University
 - 🚀 **Systems & Software Engineering Bootcamp** — Tuwaiq Academy
 
 ---
 
 ### 💡 Core Interests
 
-- Systems Programming & Computer Engineering
+- Systems Programming 
 - Linux Administration & Shell Scripting
 - Web Dashboards & Real-time Sensor Applications
-- Cybersecurity & Networking Concepts
+
 
 ---
 
